@@ -1,0 +1,15 @@
+id,text,label
+address_change_11,I accidentally used my old address.,address_change
+address_change_06,I moved recently and need to update the delivery location.,address_change
+cancellation_09,How can I cancel my current order?,cancellation
+cancellation_08,I ordered the wrong product and need to cancel.,cancellation
+damaged_item_09,The box was fine but the product inside was broken.,damaged_item
+damaged_item_01,The item arrived broken.,damaged_item
+delivery_issue_15,The tracking has not updated and my parcel is late.,delivery_issue
+delivery_issue_08,I cannot find my package even though the app says it is nearby.,delivery_issue
+order_status_14,Can you check if my order is still processing?,order_status
+order_status_02,Has my order been packed yet?,order_status
+payment_issue_09,My bank shows the payment but your website does not.,payment_issue
+payment_issue_10,I was charged more than the total shown at checkout.,payment_issue
+refund_01,I would like a refund for this order.,refund
+refund_05,Please process a refund for my purchase.,refund
