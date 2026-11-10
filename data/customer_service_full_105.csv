@@ -1,0 +1,106 @@
+id,text,label
+delivery_issue_01,My parcel still has not arrived.,delivery_issue
+delivery_issue_02,The tracking says delivered but I did not receive anything.,delivery_issue
+delivery_issue_03,My order is three days late.,delivery_issue
+delivery_issue_04,The courier has not delivered my package yet.,delivery_issue
+delivery_issue_05,I was supposed to receive my order yesterday.,delivery_issue
+delivery_issue_06,My delivery is delayed and I need an update.,delivery_issue
+delivery_issue_07,The parcel has been stuck in transit for several days.,delivery_issue
+delivery_issue_08,I cannot find my package even though the app says it is nearby.,delivery_issue
+delivery_issue_09,My order never reached my address.,delivery_issue
+delivery_issue_10,The delivery date passed but nothing has arrived.,delivery_issue
+delivery_issue_11,Can you check why my parcel is taking so long?,delivery_issue
+delivery_issue_12,The courier missed the delivery and has not returned.,delivery_issue
+delivery_issue_13,My package has not moved from the depot.,delivery_issue
+delivery_issue_14,I am still waiting for an order that should already be here.,delivery_issue
+delivery_issue_15,The tracking has not updated and my parcel is late.,delivery_issue
+refund_01,I would like a refund for this order.,refund
+refund_02,Please return my money for the item.,refund
+refund_03,Can I get my payment refunded?,refund
+refund_04,I no longer want the product and need a refund.,refund
+refund_05,Please process a refund for my purchase.,refund
+refund_06,I returned the item and I am waiting for my refund.,refund
+refund_07,When will the refund be credited to my account?,refund
+refund_08,I want my money back because I am not satisfied.,refund
+refund_09,Could you refund the amount I paid?,refund
+refund_10,The order was cancelled but I have not received my refund.,refund
+refund_11,I need a full refund for this purchase.,refund
+refund_12,Please send the refund back to my original payment method.,refund
+refund_13,My return was approved but the refund is still missing.,refund
+refund_14,Can you tell me the status of my refund?,refund
+refund_15,I was promised a refund but it has not arrived.,refund
+payment_issue_01,I was charged twice for the same order.,payment_issue
+payment_issue_02,My payment keeps getting declined.,payment_issue
+payment_issue_03,The amount taken from my account is incorrect.,payment_issue
+payment_issue_04,I paid for the order but it still shows as unpaid.,payment_issue
+payment_issue_05,My card was charged even though the order failed.,payment_issue
+payment_issue_06,I cannot complete the payment at checkout.,payment_issue
+payment_issue_07,The payment page keeps showing an error.,payment_issue
+payment_issue_08,Why was an extra amount charged to my card?,payment_issue
+payment_issue_09,My bank shows the payment but your website does not.,payment_issue
+payment_issue_10,I was charged more than the total shown at checkout.,payment_issue
+payment_issue_11,The payment is stuck as pending.,payment_issue
+payment_issue_12,My card works elsewhere but is not accepted here.,payment_issue
+payment_issue_13,I tried paying twice and both attempts failed.,payment_issue
+payment_issue_14,The payment went through but I did not get an order confirmation.,payment_issue
+payment_issue_15,There is a charge from this store that I do not recognise.,payment_issue
+damaged_item_01,The item arrived broken.,damaged_item
+damaged_item_02,My product was damaged when I opened the box.,damaged_item
+damaged_item_03,The package arrived crushed and the item inside is damaged.,damaged_item
+damaged_item_04,There is a large crack in the product.,damaged_item
+damaged_item_05,The item I received is scratched and cannot be used.,damaged_item
+damaged_item_06,My order arrived with a broken part.,damaged_item
+damaged_item_07,The product was damaged during delivery.,damaged_item
+damaged_item_08,One side of the item is completely bent.,damaged_item
+damaged_item_09,The box was fine but the product inside was broken.,damaged_item
+damaged_item_10,I received an item with visible damage.,damaged_item
+damaged_item_11,The product does not work because it arrived damaged.,damaged_item
+damaged_item_12,There are pieces missing because the item was broken in transit.,damaged_item
+damaged_item_13,My order arrived in poor condition.,damaged_item
+damaged_item_14,The item is cracked and I need a replacement.,damaged_item
+damaged_item_15,The product has physical damage straight out of the package.,damaged_item
+address_change_01,I need to change the delivery address for my order.,address_change
+address_change_02,Can you update my shipping address before dispatch?,address_change
+address_change_03,I entered the wrong address at checkout.,address_change
+address_change_04,Please send my order to a different address.,address_change
+address_change_05,Can I change the apartment number on my delivery?,address_change
+address_change_06,I moved recently and need to update the delivery location.,address_change
+address_change_07,The postcode on my order is incorrect.,address_change
+address_change_08,Please correct the street number before the parcel is sent.,address_change
+address_change_09,I need to add a unit number to my shipping address.,address_change
+address_change_10,Can you update the address on my current order?,address_change
+address_change_11,I accidentally used my old address.,address_change
+address_change_12,Please change where this package will be delivered.,address_change
+address_change_13,The suburb on my delivery address is wrong.,address_change
+address_change_14,I need the parcel redirected to another address.,address_change
+address_change_15,Can the delivery address still be edited?,address_change
+cancellation_01,I want to cancel my order.,cancellation
+cancellation_02,Please cancel the purchase before it is shipped.,cancellation
+cancellation_03,Can you stop this order from being processed?,cancellation
+cancellation_04,I placed the order by mistake and want to cancel it.,cancellation
+cancellation_05,"I no longer need the item, so please cancel my order.",cancellation
+cancellation_06,Can I cancel an order that I made today?,cancellation
+cancellation_07,Please do not dispatch my order because I want to cancel it.,cancellation
+cancellation_08,I ordered the wrong product and need to cancel.,cancellation
+cancellation_09,How can I cancel my current order?,cancellation
+cancellation_10,I changed my mind and want the order cancelled.,cancellation
+cancellation_11,Please stop the order before it leaves the warehouse.,cancellation
+cancellation_12,I want to cancel one of the items in my order.,cancellation
+cancellation_13,Can this purchase still be cancelled?,cancellation
+cancellation_14,Please cancel the entire order for me.,cancellation
+cancellation_15,I need to cancel because I selected the wrong size.,cancellation
+order_status_01,Can you tell me the current status of my order?,order_status
+order_status_02,Has my order been packed yet?,order_status
+order_status_03,I want to know where my order is in the process.,order_status
+order_status_04,Is my order still being prepared?,order_status
+order_status_05,Has the order been dispatched?,order_status
+order_status_06,Can you check whether my purchase has been shipped?,order_status
+order_status_07,What is happening with my order right now?,order_status
+order_status_08,I have not received any update about my order.,order_status
+order_status_09,Can you confirm the progress of my order?,order_status
+order_status_10,Is my order ready to be sent?,order_status
+order_status_11,What stage is my order currently at?,order_status
+order_status_12,I would like an update on my order status.,order_status
+order_status_13,Has my order left the warehouse?,order_status
+order_status_14,Can you check if my order is still processing?,order_status
+order_status_15,When will my order be ready for dispatch?,order_status
