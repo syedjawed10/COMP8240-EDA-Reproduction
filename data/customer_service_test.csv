@@ -1,0 +1,22 @@
+id,text,label
+address_change_15,Can the delivery address still be edited?,address_change
+address_change_02,Can you update my shipping address before dispatch?,address_change
+address_change_09,I need to add a unit number to my shipping address.,address_change
+cancellation_15,I need to cancel because I selected the wrong size.,cancellation
+cancellation_10,I changed my mind and want the order cancelled.,cancellation
+cancellation_03,Can you stop this order from being processed?,cancellation
+damaged_item_04,There is a large crack in the product.,damaged_item
+damaged_item_14,The item is cracked and I need a replacement.,damaged_item
+damaged_item_15,The product has physical damage straight out of the package.,damaged_item
+delivery_issue_10,The delivery date passed but nothing has arrived.,delivery_issue
+delivery_issue_05,I was supposed to receive my order yesterday.,delivery_issue
+delivery_issue_09,My order never reached my address.,delivery_issue
+order_status_07,What is happening with my order right now?,order_status
+order_status_15,When will my order be ready for dispatch?,order_status
+order_status_06,Can you check whether my purchase has been shipped?,order_status
+payment_issue_03,The amount taken from my account is incorrect.,payment_issue
+payment_issue_11,The payment is stuck as pending.,payment_issue
+payment_issue_12,My card works elsewhere but is not accepted here.,payment_issue
+refund_08,I want my money back because I am not satisfied.,refund
+refund_09,Could you refund the amount I paid?,refund
+refund_10,The order was cancelled but I have not received my refund.,refund
