@@ -1,0 +1,29 @@
+label,operation,original,augmented,semantic_preservation,label_preservation,naturalness
+address_change,SR,"Please correct the street number before the parcel is sent.","Please correct the street number before the package is sent.",5,5,5
+address_change,RI,"Please correct the street number before the parcel is sent.","Please correct the street number before the shipment parcel is sent.",5,5,4
+address_change,RS,"Please correct the street number before the parcel is sent.","Number correct the street please before the parcel is sent.",4,5,2
+address_change,RD,"Please correct the street number before the parcel is sent.","Please correct the street number before is sent.",4,5,3
+cancellation,SR,"I placed the order by mistake and want to cancel it.","I placed the purchase by mistake and want to cancel it.",5,5,4
+cancellation,RI,"I placed the order by mistake and want to cancel it.","I placed the stop order by mistake and want to cancel it.",4,5,3
+cancellation,RS,"I placed the order by mistake and want to cancel it.","I by the order placed mistake and want to cancel it.",4,5,2
+cancellation,RD,"I placed the order by mistake and want to cancel it.","I the order by mistake and want to it.",2,3,1
+damaged_item,SR,"My order arrived with a broken part.","My purchase arrived with a broken part.",5,5,4
+damaged_item,RI,"My order arrived with a broken part.","My order arrived with a purchase broken part.",4,5,2
+damaged_item,RS,"My order arrived with a broken part.","My order arrived with broken a part.",5,5,3
+damaged_item,RD,"My order arrived with a broken part.","My order arrived with a broken part.",5,5,5
+delivery_issue,SR,"Can you check why my parcel is taking so long?","Can you check why my package is taking so long?",5,5,5
+delivery_issue,RI,"Can you check why my parcel is taking so long?","Can you check why my parcel is taking so long? package",5,5,3
+delivery_issue,RS,"Can you check why my parcel is taking so long?","Can you check long my parcel is taking so why?",4,5,2
+delivery_issue,RD,"Can you check why my parcel is taking so long?","Can you check why my parcel is taking so long?",5,5,5
+order_status,SR,"Is my order still being prepared?","Is my purchase still being prepared?",5,5,4
+order_status,RI,"Is my order still being prepared?","Is my order purchase still being prepared?",5,5,3
+order_status,RS,"Is my order still being prepared?","Is my order being still prepared?",5,5,4
+order_status,RD,"Is my order still being prepared?","Is my order still being prepared?",5,5,5
+payment_issue,SR,"I tried paying twice and both attempts failed.","I tried paying twice and both attempts failed.",5,5,5
+payment_issue,RI,"I tried paying twice and both attempts failed.","I tried paying twice and both attempts failed.",5,5,5
+payment_issue,RS,"I tried paying twice and both attempts failed.","Paying tried i twice and both attempts failed.",4,5,2
+payment_issue,RD,"I tried paying twice and both attempts failed.","I paying twice and both attempts failed.",4,5,3
+refund,SR,"Can I get my payment refunded?","Can i get my charge refunded?",4,5,4
+refund,RI,"Can I get my payment refunded?","Charge can i get my payment refunded?",4,5,2
+refund,RS,"Can I get my payment refunded?","Can i payment my get refunded?",3,4,1
+refund,RD,"Can I get my payment refunded?","Can i get my payment?",2,2,5
