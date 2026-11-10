@@ -1,0 +1,11 @@
+Model used: ChatGPT (GPT-5.6 Sol)
+Date: 10 November 2026
+
+Task: You are evaluating whether a text-augmentation method preserves the intent of a labelled customer-service message.
+
+For each original/augmented pair, score the augmented message from 1 to 5 on:
+1. Semantic preservation: 1 = core meaning changed substantially; 5 = core meaning preserved.
+2. Label preservation: 1 = original intent label clearly no longer applies; 5 = original intent label clearly still applies.
+3. Naturalness: 1 = very unnatural or difficult to understand; 5 = natural English.
+
+Judge only the supplied pair. Do not correct the sentence. Use the same criteria for every example.
